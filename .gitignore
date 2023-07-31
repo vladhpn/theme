@@ -4,6 +4,7 @@
 
 # Resources
 node_modules
+.npmrc
 
 # Build
 dist

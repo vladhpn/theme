@@ -1,0 +1,9 @@
+# IDE
+.idea
+.vscode
+
+# Resources
+node_modules
+
+# Build
+dist
